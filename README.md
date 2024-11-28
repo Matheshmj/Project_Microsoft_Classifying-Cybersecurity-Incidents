@@ -51,32 +51,27 @@ The dataset used in this project consists of various features related to cyberse
 
 The performance of different machine learning models is evaluated using key metrics: Accuracy, Macro-F1 Score, Precision, and Recall. Below is a comparison of the models:
 
-Logistic Regression:
+- **Logistic Regression**:
+  - **Accuracy**: 0.91
+  - **Macro-F1 Score**: 0.76
+  - **Precision**: 0.80
+  - **Recall**: 0.73
 
-Accuracy: 0.91
-Macro-F1 Score: 0.76
-Precision: 0.80
-Recall: 0.73
+- **Decision Tree**:
+  - **Accuracy**: 0.97
+  - **Macro-F1 Score**: 0.91
+  - **Precision**: 0.90
+  - **Recall**: 0.92
 
-Decision Tree:
+- **Random Forest**:
+  - **Accuracy**: 0.99
+  - **Macro-F1 Score**: 0.98
+  - **Precision**: 0.98
+  - **Recall**: 0.98
+  - **Best Model Based on Macro-F1 Score**
 
-Accuracy: 0.97
-Macro-F1 Score: 0.91
-Precision: 0.90
-Recall: 0.92
-
-Random Forest:
-
-Accuracy: 0.99
-Macro-F1 Score: 0.98
-Precision: 0.98
-Recall: 0.98
-
-Best Model Based on Macro-F1 Score
-
-XGBoost:
-
-Accuracy: 0.99
-Macro-F1 Score: 0.97
-Precision: 0.97
-Recall: 0.97
+- **XGBoost**:
+  - **Accuracy**: 0.99
+  - **Macro-F1 Score**: 0.97
+  - **Precision**: 0.97
+  - **Recall**: 0.97
