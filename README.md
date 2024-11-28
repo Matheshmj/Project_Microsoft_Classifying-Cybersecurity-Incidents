@@ -6,6 +6,7 @@ The Classifying Cybersecurity Incidents project aims to develop a machine learni
 The project involves data cleaning, exploratory data analysis (EDA), feature engineering, model development, and deployment of the classification model through a user-friendly web application built using Streamlit.
 ### Key Features
 -Data Cleaning & Preprocessing: Handles missing data, removes outliers, and transforms data to improve model performance.
+
 -Exploratory Data Analysis (EDA): Analyzes incident attributes like incident type, severity, source IP address, attack vector, and others to uncover patterns and relationships.
 -Model Development: Implements machine learning algorithms (e.g., Random Forest, Logistic Regression, Support Vector Machines) to classify cybersecurity incidents.
 -Model Evaluation: Assesses model performance using metrics such as accuracy, precision, recall, and F1-score.
