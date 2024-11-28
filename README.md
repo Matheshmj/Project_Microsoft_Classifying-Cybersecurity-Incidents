@@ -25,27 +25,27 @@ The project involves data cleaning, exploratory data analysis (EDA), feature eng
 ## Data
 The dataset used in this project consists of various features related to cybersecurity incidents, including:
 
--Incident Type: The type of the cybersecurity event (e.g., phishing, malware, unauthorized access).
+-**Incident Type:** The type of the cybersecurity event (e.g., phishing, malware, unauthorized access).
 
--Incident Severity: The severity level of the incident (e.g., low, medium, high).
+-**Incident Severity**: The severity level of the incident (e.g., low, medium, high).
 
--Attack Vector: The method used for the attack (e.g., email, network breach).
+-**Attack Vector**: The method used for the attack (e.g., email, network breach).
 
--Source IP Address: The originating IP address of the attack.
+-**Source IP Address**: The originating IP address of the attack.
 
--Target System: The system or service targeted in the incident (e.g., web server, database).
+-**Target System:** The system or service targeted in the incident (e.g., web server, database).
 
--Date and Time: The timestamp of the incident.
+-**Date and Time:** The timestamp of the incident.
 
 ## How It Works
 
--Data Cleaning: The dataset undergoes cleaning to handle missing values, remove outliers, and drop irrelevant columns. Textual data is converted into numerical representations, and categorical features are encoded appropriately.
+-**Data Cleaning:** The dataset undergoes cleaning to handle missing values, remove outliers, and drop irrelevant columns. Textual data is converted into numerical representations, and categorical features are encoded appropriately.
 
--Feature Engineering: New features are generated from the existing data, such as transforming date-time into weekday and hour, and encoding attack vectors into numerical formats.
+-**Feature Engineering:** New features are generated from the existing data, such as transforming date-time into weekday and hour, and encoding attack vectors into numerical formats.
 
--Model Training: Several machine learning models are trained on the cleaned data to classify incidents into predefined categories based on various features.
+-**Model Training:** Several machine learning models are trained on the cleaned data to classify incidents into predefined categories based on various features.
 
--Model Evaluation: Models are evaluated based on metrics such as accuracy, precision, recall, and F1-score to determine the best-performing model.
+-**Model Evaluation**: Models are evaluated based on metrics such as accuracy, precision, recall, and F1-score to determine the best-performing model.
 
 ## Model Performance
 
