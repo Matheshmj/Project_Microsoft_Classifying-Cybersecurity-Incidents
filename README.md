@@ -5,22 +5,22 @@ The Classifying Cybersecurity Incidents project aims to develop a machine learni
 
 The project involves data cleaning, exploratory data analysis (EDA), feature engineering, model development, and deployment of the classification model through a user-friendly web application built using Streamlit.
 ### Key Features
--Data Cleaning & Preprocessing: Handles missing data, removes outliers, and transforms data to improve model performance.
+-**Data Cleaning & Preprocessing:** Handles missing data, removes outliers, and transforms data to improve model performance.
 
--Exploratory Data Analysis (EDA): Analyzes incident attributes like incident type, severity, source IP address, attack vector, and others to uncover patterns and relationships.
+-**Exploratory Data Analysis (EDA):** Analyzes incident attributes like incident type, severity, source IP address, attack vector, and others to uncover patterns and relationships.
 
--Model Development: Implements machine learning algorithms (e.g., Random Forest, Logistic Regression) to classify cybersecurity incidents.
+-**Model Development:** Implements machine learning algorithms (e.g., Random Forest, Logistic Regression) to classify cybersecurity incidents.
 
--Model Evaluation: Assesses model performance using metrics such as accuracy, precision, recall, and F1-score.
+-**Model Evaluation:** Assesses model performance using metrics such as accuracy, precision, recall, and F1-score.
 
 ### Technologies Used
--Programming Language: Python
+-**Programming Language**: Python
 
--Libraries & Tools: Pandas,NumPy,Scikit-learn,Matplotlib,Seaborn
+-**Libraries & Tools**: Pandas,NumPy,Scikit-learn,Matplotlib,Seaborn
 
--Machine Learning Algorithms: Random Forest,Logistic Regression,Decision Tree Classifier,Xg boost
+-**Machine Learning Algorithms**: Random Forest,Logistic Regression,Decision Tree Classifier,Xg boost
 
--Data Visualization: Matplotlib, Seaborn
+-**Data Visualization**: Matplotlib, Seaborn
 
 ## Data
 The dataset used in this project consists of various features related to cybersecurity incidents, including:
